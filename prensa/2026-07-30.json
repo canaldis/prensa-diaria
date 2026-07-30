@@ -1,8 +1,8 @@
 {
   "fecha": "2026-07-30",
   "fechaLarga": "jueves 30 de julio de 2026",
-  "generado": "2026-07-30T17:11:03.825Z",
-  "total": 15,
+  "generado": "2026-07-30T17:16:16.301Z",
+  "total": 20,
   "noticias": [
     {
       "titular": "Aldous aspira a multiplicarse por cinco, y facturar 100 millones, con la entrada de Nazca",
@@ -78,6 +78,31 @@
       "titular": "EL CORTE INGLÉS",
       "url": "https://cincodias.elpais.com/companias/2026-07-30/el-corte-ingles-marca-un-nuevo-record-de-ventas-fuera-de-espana-pero-reduce-su-rentabilidad.html",
       "medio": "Cinco Días"
+    },
+    {
+      "titular": "Puig gana 263 millones hasta junio, un 4,4% menos, y eleva un 5,2% el beneficio ajustado",
+      "url": "https://www.europapress.es/economia/noticia-puig-gana-263-millones-junio-44-menos-eleva-52-beneficio-ajustado-20260730183355.html",
+      "medio": "Europa Press"
+    },
+    {
+      "titular": "David Zorrakino - Europa Press - Archivo",
+      "url": "https://www.europapress.es/economia/noticia-88-espanoles-mantendra-elevara-prespuesto-restaurantes-vacaciones-agosto-20260730170256.html",
+      "medio": "Europa Press"
+    },
+    {
+      "titular": "Nazca invierte en Aldous y busca alcanzar los 100 millones de facturación en línea con su plan de crecimiento",
+      "url": "https://www.europapress.es/economia/noticia-nazca-invierte-aldous-busca-alcanzar-100-millones-facturacion-linea-plan-crecimiento-20260730144109.html",
+      "medio": "Europa Press"
+    },
+    {
+      "titular": "El superávit comercial agroalimentario de la UE aumenta en 2026 pese al descenso de las exportaciones",
+      "url": "https://www.europapress.es/economia/macroeconomia-00338/noticia-superavit-comercial-agroalimentario-ue-aumenta-2026-pese-descenso-exportaciones-20260730171548.html",
+      "medio": "Europa Press"
+    },
+    {
+      "titular": "Dia mantiene su objetivo de abrir 100 tiendas en 2026 e iniciará en 2027 la refinanciación de su deuda",
+      "url": "https://www.europapress.es/economia/noticia-dia-mantiene-objetivo-abrir-100-tiendas-2026-iniciara-2027-refinanciacion-deuda-20260730140949.html",
+      "medio": "Europa Press"
     }
   ]
 }
