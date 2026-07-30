@@ -1,0 +1,83 @@
+{
+  "fecha": "2026-07-30",
+  "fechaLarga": "jueves 30 de julio de 2026",
+  "generado": "2026-07-30T17:11:03.825Z",
+  "total": 15,
+  "noticias": [
+    {
+      "titular": "Aldous aspira a multiplicarse por cinco, y facturar 100 millones, con la entrada de Nazca",
+      "url": "https://www.expansion.com/valencia/2026/07/30/6a6b3999468aeb1d548b4593.html",
+      "medio": "Expansión"
+    },
+    {
+      "titular": "El Corte Inglés inversiones",
+      "url": "https://www.expansion.com/empresas/distribucion/2026/07/30/6a6a3e72e5fdeade038b459d.html",
+      "medio": "Expansión"
+    },
+    {
+      "titular": "Dia traspasa los 3.000 millones de euros en ventas gracias al impulso de España",
+      "url": "https://www.expansion.com/empresas/distribucion/2026/07/30/6a6b0619e5fdea3e248b4575.html",
+      "medio": "Expansión"
+    },
+    {
+      "titular": "Adidas sufre su mayor desplome en Bolsa pese al tirón del Mundial de fútbol",
+      "url": "https://www.expansion.com/mercados/2026/07/30/6a6b11c1e5fdea22558b4571.html",
+      "medio": "Expansión"
+    },
+    {
+      "titular": "Rivoli compra a Nuveen un 50% del centro comercial Xanadú por 250 millones",
+      "url": "https://www.expansion.com/inmobiliario/mercado/2026/07/30/6a6a3636e5fdea5f528b4598.html",
+      "medio": "Expansión"
+    },
+    {
+      "titular": "Portobello acuerda la compra del 51% de Suavinex a Bluegem Capital",
+      "url": "https://www.expansion.com/empresas/2026/07/30/6a6a1994e5fdea7f508b4591.html",
+      "medio": "Expansión"
+    },
+    {
+      "titular": "Theker lleva sus 'robots' inteligentes al centro logístico de Mango",
+      "url": "https://www.expansion.com/expansion-empleo/emprendedores/2026/07/30/6a69d5c3468aebe32c8b4580.html",
+      "medio": "Expansión"
+    },
+    {
+      "titular": "Bimbo acelera su descarbonización mediante un acuerdo energético con Repsol",
+      "url": "https://www.expansion.com/economia-sostenible/2026/07/30/6a6b2800468aeb5e1a8b458b.html",
+      "medio": "Expansión"
+    },
+    {
+      "titular": "Adidas gana el Mundial, pero se desploma un 17% en Bolsa por los gastos en publicidad durante el torneo",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-30/adidas-gana-el-mundial-pero-se-desploma-un-17-en-bolsa-por-los-gastos-en-publicidad-durante-el-torneo.html",
+      "medio": "Cinco Días"
+    },
+    {
+      "titular": "La inflación repunta hasta el 3,5% en julio por los combustibles y la electricidad",
+      "url": "https://elpais.com/economia/2026-07-30/la-inflacion-repunta-hasta-el-35-en-julio-por-los-combustibles-y-la-electricidad.html",
+      "medio": "El País"
+    },
+    {
+      "titular": "Adidas sufre su mayor desplome en Bolsa pese al tirón del Mundial de fútbol",
+      "url": "https://l.e.expansion.com/rts/go2.aspx?h=4123473&tp=i-1NGB-Q6s-1iE0-2J9zON-5A-9SVj-1c-2J9zNh-lDaZ0YzhvI-7SMfZ&pi=vZJ7sju44O1lNWk3CeR5OKYAnnNOrpFjLlvtoyabEJQ",
+      "medio": "Expansión"
+    },
+    {
+      "titular": "Lidl nombra al español Imanol Zabala como nuevo director internacional de inmobiliario",
+      "url": "https://cincodias.elpais.com/companias/2026-07-30/lidl-nombra-al-espanol-imanol-zabala-como-nuevo-director-internacional-de-inmobiliario.html",
+      "medio": "Cinco Días"
+    },
+    {
+      "titular": "El beneficio de Puig cae un 4,4% durante el primer semestre y se queda en 263 millones",
+      "url": "https://cincodias.elpais.com/companias/2026-07-30/el-beneficio-de-puig-cae-un-44-durante-el-primer-semestre-y-se-queda-en-263-millones.html",
+      "medio": "Cinco Días"
+    },
+    {
+      "titular": "Dia supera los 3.000 millones en ventas hasta junio, pero reduce un 38% el beneficio",
+      "url": "https://cincodias.elpais.com/companias/2026-07-30/dia-supera-los-3000-millones-en-ventas-hasta-junio-pero-reduce-un-38-el-beneficio.html",
+      "medio": "Cinco Días"
+    },
+    {
+      "titular": "EL CORTE INGLÉS",
+      "url": "https://cincodias.elpais.com/companias/2026-07-30/el-corte-ingles-marca-un-nuevo-record-de-ventas-fuera-de-espana-pero-reduce-su-rentabilidad.html",
+      "medio": "Cinco Días"
+    }
+  ]
+}
