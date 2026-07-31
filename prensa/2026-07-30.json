@@ -1,8 +1,8 @@
 {
   "fecha": "2026-07-30",
   "fechaLarga": "jueves 30 de julio de 2026",
-  "generado": "2026-07-30T17:18:06.966Z",
-  "total": 20,
+  "generado": "2026-07-31T05:53:52.638Z",
+  "total": 24,
   "noticias": [
     {
       "titular": "Aldous aspira a multiplicarse por cinco, y facturar 100 millones, con la entrada de Nazca",
@@ -103,6 +103,26 @@
       "titular": "Dia mantiene su objetivo de abrir 100 tiendas en 2026 e iniciará en 2027 la refinanciación de su deuda",
       "url": "https://www.europapress.es/economia/noticia-dia-mantiene-objetivo-abrir-100-tiendas-2026-iniciara-2027-refinanciacion-deuda-20260730140949.html",
       "medio": "Europa Press"
+    },
+    {
+      "titular": "Puig encoge un 5% el beneficio y eleva ventas a 2.353 millones pese al freno del sector",
+      "url": "https://www.eleconomista.es/retail-consumo/noticias/14005455/07/26/puig-encoge-un-5-el-beneficio-y-eleva-ventas-a-2353-millones-pese-al-freno-del-sector.html",
+      "medio": "elEconomista.es"
+    },
+    {
+      "titular": "Nazca invierte en Aldous para llevarla a los 100 millones de facturación",
+      "url": "https://www.eleconomista.es/capital-riesgo/noticias/14005403/07/26/nazca-invierte-en-aldous-para-llevarla-a-los-100-millones-de-facturacion.html",
+      "medio": "elEconomista.es"
+    },
+    {
+      "titular": "Repsol suministrará energía renovable a Bimbo para acelerar su camino a las cero emisiones netas",
+      "url": "https://www.eleconomista.es/energia/noticias/14005395/07/26/repsol-suministrara-energia-renovable-a-bimbo-para-acelerar-su-camino-a-las-cero-emisiones-netas.html",
+      "medio": "elEconomista.es"
+    },
+    {
+      "titular": "Alcampo y Helexia instalan una planta solar fotovoltaica de 696 módulos en el supermercado de Calatayud (Zaragoza)",
+      "url": "https://www.eleconomista.es/energia/noticias/14005341/07/26/alcampo-y-helexia-instalan-una-planta-solar-fotovoltaica-de-696-modulos-en-el-supermercado-de-calatayud-zaragoza.html",
+      "medio": "elEconomista.es"
     }
   ]
 }
