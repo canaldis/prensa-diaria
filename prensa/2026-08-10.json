@@ -1,14 +1,9 @@
 {
   "fecha": "2026-08-10",
   "fechaLarga": "lunes 10 de agosto de 2026",
-  "generado": "2026-08-10T19:38:45.190Z",
+  "generado": "2026-08-11T06:23:42.347Z",
   "total": 38,
   "noticias": [
-    {
-      "titular": "Golpe regulatorio al envase: la industria alimentaria afronta ya restricciones y más costes por la nueva norma europea",
-      "url": "https://www.eleconomista.es/retail-consumo/noticias/14007278/08/26/golpe-regulatorio-al-envase-la-industria-alimentaria-afronta-ya-restricciones-y-mas-costes-por-la-nueva-norma-europea.html",
-      "medio": "elEconomista.es"
-    },
     {
       "titular": "ALDI redobla su apuesta por el sector cárnico andaluz: dispara sus compras un 24% hasta las 6.200 toneladas",
       "url": "https://www.eleconomista.es/retail-consumo/noticias/14007229/08/26/aldi-redobla-su-apuesta-por-el-sector-carnico-andaluz-dispara-sus-compras-un-24-hasta-las-6200-toneladas.html",
@@ -17,6 +12,16 @@
     {
       "titular": "Casa ISDIN retransmitirá en directo el eclipse solar en un evento divulgativo que unirá ciencia y música",
       "url": "https://www.eleconomista.es/actualidad/noticias/14007241/08/26/casa-isdin-retransmitira-en-directo-el-eclipse-solar-en-un-evento-divulgativo-que-unira-ciencia-y-musica.html",
+      "medio": "elEconomista.es"
+    },
+    {
+      "titular": "FIAB trabaja para que el reglamento de envases se implante de forma eficaz y avanza \"inversiones muy altas\"",
+      "url": "https://www.europapress.es/economia/noticia-fiab-trabaja-reglamento-envases-implante-forma-eficaz-avanza-inversiones-muy-altas-20260810141026.html",
+      "medio": "Europa Press"
+    },
+    {
+      "titular": "Golpe regulatorio al envase: la industria alimentaria afronta ya restricciones y más costes por la nueva norma europea",
+      "url": "https://www.eleconomista.es/retail-consumo/noticias/14007278/08/26/golpe-regulatorio-al-envase-la-industria-alimentaria-afronta-ya-restricciones-y-mas-costes-por-la-nueva-norma-europea.html",
       "medio": "elEconomista.es"
     },
     {
@@ -30,17 +35,12 @@
       "medio": "elEconomista.es"
     },
     {
-      "titular": "Jorge Gil - Europa Press - Archivo",
-      "url": "https://www.europapress.es/economia/noticia-fiab-trabaja-reglamento-envases-implante-forma-eficaz-avanza-inversiones-muy-altas-20260810141026.html",
-      "medio": "Europa Press"
-    },
-    {
       "titular": "El gran consumo crece un 5% en el segundo trimestre, impulsado por el Mundial de fútbol",
       "url": "https://www.europapress.es/economia/noticia-gran-consumo-crece-segundo-trimestre-impulsado-mundial-futbol-20260810124703.html",
       "medio": "Europa Press"
     },
     {
-      "titular": "César Vallejo Rodríguez / Europa Press",
+      "titular": "Adidas España deja atrás las pérdidas tras ganar 18,3 millones en 2025",
       "url": "https://www.europapress.es/economia/noticia-adidas-espana-deja-atras-perdidas-ganar-183-millones-2025-20260810122325.html",
       "medio": "Europa Press"
     },
@@ -60,7 +60,7 @@
       "medio": "Expansión"
     },
     {
-      "titular": "Monika Skolimowska/dpa - Archivo",
+      "titular": "Shein sondea a inversores con una valoración inferior a 30.000 millones de dólares para su OPV, según FT",
       "url": "https://www.europapress.es/economia/noticia-shein-sondea-inversores-valoracion-inferior-30000-millones-dolares-opv-ft-20260810181025.html",
       "medio": "Europa Press"
     },
@@ -130,7 +130,7 @@
       "medio": "farodevigo.es"
     },
     {
-      "titular": "El salm�n de granja sigue ganando terreno a la merluza�salvaje en los hogares espa�oles",
+      "titular": "El salmón de granja sigue ganando terreno a la merluza salvaje en los hogares españoles",
       "url": "https://www.lavozdegalicia.es/noticia/somosmar/pesca-marisqueo/2026/08/01/salmon-granja-sigue-ganando-terreno-merluzasalvaje-hogares-espanoles/00031785594912986384499.htm",
       "medio": "La Voz de Galicia"
     },
